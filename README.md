@@ -1,6 +1,6 @@
 # My First Website !
 
-**French Follows**
+**Discover it now**
 
 This is my second project on HTML, CSS and JavaScript. It's my personal portfolio, which purpose is to reflect my interest in front-end development for my relatives, and recruiters. I plan on building templates of personal websites, so that students from other programs can benefit from having a personal online portrait. This time, I'll be coding in React.js. This is to see next on my GitHub.
 
