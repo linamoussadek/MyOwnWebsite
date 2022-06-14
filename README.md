@@ -7,3 +7,4 @@ This is my second project on HTML, CSS and JavaScript. It's my personal portfoli
 __________________________________________________________________________________________________________________________________________________________________
 
 Ceci est mon deuxième project codé en HTML, CSS et JavaScript. Il s'agit de mon portfolio personel, dont l'objectif est de refléter mon intérêt pour le développement front-end, aussi bien pour mes proches que pour les recruteurs. Je prévois de coder des modèles de portfolios personels, pour que des étudiants d'autres programmes que l'informatique puissent bénéficier d'un portrait personel en ligne. Cette fois ci, le projet sera codé en React.js. C'est à venir bientôt. sur mon GitHub.
+
