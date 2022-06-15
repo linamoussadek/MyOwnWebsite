@@ -486,8 +486,7 @@ img {
 
 .skills-container .skills-bar,
 .skills-container .skills-percentage {
-  height: 5px;
-  border-radius: .25rem;
+  height: 0.5px;
 }
 
 .skills-container .skills-bar {
